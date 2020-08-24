@@ -1,9 +1,9 @@
 baseURL = "https://potoppoy-travel.netlify.com"
-disableLanguages = []
+disableLanguages = ['fr']
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
-theme = "meghna-hugo"
+theme = "potoppoy-travel"
 title = "Potoppoy Travel"
 [Languages.en]
 contentDir = "content/english"
