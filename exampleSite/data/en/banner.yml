@@ -1,12 +1,13 @@
-############################### Banner ################################
+---
 banner:
-  enable : true
-  bg_image_webp : "images/backgrounds/background.jpg"
-  bg_image : "images/backgrounds/background.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Booking langsung rencana perjalananmu ke Malang, Bali, Jogja, atau Labuan Bajo!"
+  enable: true
+  bg_image_webp: images/backgrounds/background.jpg
+  bg_image: images/backgrounds/background.jpg
+  icon: ''
+  title: Potoppoy Travel
+  content: Booking rencana perjalananmu ke Malang, Bali, Jogja, atau Labuan Bajo sekarang
+    juga!
   button:
-    enable : true
-    label : "Explore Us"
-    link : "#services"
+    enable: true
+    label: Hubungi Kami
+    link: "#services"
