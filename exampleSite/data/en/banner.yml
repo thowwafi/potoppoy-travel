@@ -10,4 +10,4 @@ banner:
   button:
     enable: true
     label: Hubungi Kami
-    link: "#services"
+    link: "#contact"
