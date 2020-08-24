@@ -1,5 +1,5 @@
 baseURL = "https://potoppoy-travel.netlify.com"
-disableLanguages = ['fr']
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -19,6 +19,8 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
+[menu]
+static = []
 [[menu.main]]
 URL = "about"
 name = "about"
@@ -28,29 +30,13 @@ URL = "services"
 name = "services"
 weight = 2
 [[menu.main]]
-URL = "portfolio"
-name = "portfolio"
-weight = 3
-[[menu.main]]
-URL = "team"
-name = "team"
-weight = 4
-[[menu.main]]
 URL = "pricing"
 name = "pricing"
 weight = 5
 [[menu.main]]
-URL = "blog"
-name = "blog"
-weight = 6
-[[menu.main]]
 URL = "contact"
 name = "contact"
 weight = 7
-[[menu.static]]
-URL = "https://themefisher.com/"
-name = "themefisher"
-weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
