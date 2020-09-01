@@ -3,16 +3,6 @@ pricing:
   enable: true
   title: Our Plans
   pricing_table:
-  - name: Test2
-    price: ''
-    unit: ''
-    services: ''
-    button: ''
-  - name: Test1
-    price: ''
-    unit: ''
-    services: ''
-    button: ''
   - name: Free
     price: "$99"
     unit: month
