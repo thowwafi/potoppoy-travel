@@ -9,5 +9,5 @@ banner:
     juga!
   button:
     enable: true
-    label: Hubungi Kami
-    link: "#contact"
+    label: Lihat Paket
+    link: "#blog"
