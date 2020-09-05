@@ -1,7 +1,7 @@
 baseURL = "https://potoppoy-travel.netlify.com"
 disableLanguages = ["fr"]
 disqusShortname = ""
-paginate = "6"
+paginate = "9"
 summaryLength = "15"
 theme = "potoppoy-travel"
 title = "Potoppoy Travel"
