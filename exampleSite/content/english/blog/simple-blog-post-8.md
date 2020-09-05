@@ -3,7 +3,7 @@ title: Malang Tour Package
 date: 2020-09-05T08:51:12+00:00
 image_webp: "/images/malang.jpg"
 image: "/images/malang.jpg"
-author: Potoppoy Travel
+author: John Doe
 description: Malang Travel, Bromo, Batu, Open Trip
 
 ---
