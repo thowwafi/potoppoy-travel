@@ -1,18 +1,22 @@
 ---
-title: "Are You Doing the Right Way"
-date: 2018-09-12T14:51:12+06:00
-image_webp: images/blog/blog-post-2.webp
-image: images/blog/blog-post-2.jpg
-author: John Doe
-description : "This is meta description"
+title: Malang Tour Package
+date: 2020-09-05T08:51:12+00:00
+image_webp: "/images/malang.jpg"
+image: "/images/malang.jpg"
+author: Potoppoy Travel
+description: Malang Travel, Bromo, Batu, Open Trip
+
 ---
+Malang merupakan destinasi wisata yang sangat populer bagi wisatawan dalam negeri maupun luar.
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Beberapa tempat wisata yang bisa dikunjungi di malang:
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+1. Kawah Gunung Bromo 
+2. Batu Night Spectacular
+3. Dll
 
-> Design is not just what it looks like and feels like. Design is how it works.
+Dan jangan lupa, kuliner di Malang sangat unik dan melimpah yang tidak akan kamu temui di tempat lain
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Berikut merupakan beberapa paket wisata yang kami sediakan:
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+![](/images/3-pax-04-04.jpg)![](/images/5-pax-04.jpg)
