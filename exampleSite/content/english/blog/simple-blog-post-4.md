@@ -19,4 +19,4 @@ Dan jangan lupa, kuliner di Malang sangat unik dan melimpah yang tidak akan kamu
 
 Berikut merupakan beberapa paket wisata yang kami sediakan:
 
-![](/images/3-pax-04-04-resize.jpg)![](/images/5-pax-04-resize.jpg)
+![](/images/3-pax-04-04-resize.jpg)    ![](/images/5-pax-04-resize.jpg)
