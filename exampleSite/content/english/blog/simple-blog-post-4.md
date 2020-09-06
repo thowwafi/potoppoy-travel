@@ -15,7 +15,7 @@ Beberapa tempat wisata yang bisa dikunjungi di malang:
 2. Batu Night Spectacular
 3. Dll
 
-Dan jangan lupa, kuliner di Malang sangat unik dan melimpah yang tidak akan kamu temui di tempat lain
+Dan jangan lupa, kuliner di Malang sangat unik dan melimpah yang tidak akan kamu temui di tempat lain.
 
 Berikut merupakan beberapa paket wisata yang kami sediakan:
 
