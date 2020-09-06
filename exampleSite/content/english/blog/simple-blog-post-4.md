@@ -1,6 +1,6 @@
 ---
 title: Malang Tour Package
-date: 2020-09-05T06:52:36+00:00
+date: 2020-09-05T06:52:36.000+00:00
 image_webp: "/images/malang.webp"
 image: "/images/malang.jpg"
 author: Potoppoy Travel
@@ -19,5 +19,4 @@ Dan jangan lupa, kuliner di Malang sangat unik dan melimpah yang tidak akan kamu
 
 Berikut merupakan beberapa paket wisata yang kami sediakan:
 
-<img src="/images/3-pax-04-04.jpg" alt="drawing" width="200"/>
-<img src="/images/5-pax-04.jpg" alt="drawing" width="200"/>
+![](/images/3-pax-04-04-resize.jpg)![](/images/5-pax-04-resize.jpg)
