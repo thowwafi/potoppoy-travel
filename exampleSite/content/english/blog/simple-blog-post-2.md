@@ -1,9 +1,9 @@
 ---
-title: Test New Page
-date: 2018-09-12T12:52:36.000+06:00
+title: Labuan Bajo
+date: 2020-09-08T06:52:36+00:00
 image_webp: images/blog/blog-post-2.webp
 image: images/blog/blog-post-2.jpg
-author: John Doe
+author: Potoppoy Travel
 description: This is meta description
 
 ---
