@@ -9,8 +9,6 @@ description: This is meta description
 ---
 Labuan Bajo!!
 
-![](/images/img-20200829-wa0009.jpg)
-
 ![](/images/img-20200826-wa0086.jpg)
 
 ![](/images/img-20200829-wa0013.jpg)![](/images/img-20200827-wa0002.jpg)
